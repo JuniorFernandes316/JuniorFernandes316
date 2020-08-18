@@ -17,4 +17,6 @@ Here are some ideas to get you started:
 
 # You can call me Junior Fernandes
 
-[![linkedin](linkedin.png)](https://www.linkedin.com/in/valdemir-fernandes-junior-0229aa1b2/)
+[![link](https://andyayim.com/wp-content/uploads/2019/09/LinkedIn-Icon-150px.png)](https://www.linkedin.com/in/valdemir-fernandes-junior-0229aa1b2/)
+
+
