@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, welcome to my profile 👋
 
 <!--
 **JuniorFernandes316/JuniorFernandes316** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,8 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# You can call me Junior Fernandes
+## You can call me JUNIOR FERNANDES
 
-[![link](https://andyayim.com/wp-content/uploads/2019/09/LinkedIn-Icon-150px.png)](https://www.linkedin.com/in/valdemir-fernandes-junior-0229aa1b2/)
+[![link](linkedin.png)](https://www.linkedin.com/in/valdemir-fernandes-junior-0229aa1b2/)
 
+- 😄 Estou cursando desenvolvimento FULL STACK no SENAI -SP
+- 🤔 Em busca de um oportunidade de emprego na área de tecnologias.
+- 🌱 Desenvolvendo um site de vendas para meus artesantos.
+- 🌱 No momento estou 'dominando' o front-end(html, css, Javascript)
+- ⚡ Amo criar, desenhar, escrever e, claro, desenvolver/programar.
+- ⚡ Sou instrutor de Artes Marciais.
 
