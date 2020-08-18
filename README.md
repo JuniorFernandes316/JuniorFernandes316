@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# You can call me Junior Fernandes
+
+[![linkedin](linkedin.png)](https://www.linkedin.com/in/valdemir-fernandes-junior-0229aa1b2/)
