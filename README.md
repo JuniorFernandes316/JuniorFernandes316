@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 # You can call me Junior Fernandes
 
-[![linkedin](linkedin.png)](https://www.linkedin.com/in/valdemir-fernandes-junior-0229aa1b2/)
+[![linkedin](linkedinok.png)](https://www.linkedin.com/in/valdemir-fernandes-junior-0229aa1b2/)
