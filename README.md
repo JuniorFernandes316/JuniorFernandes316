@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## You can call me JUNIOR FERNANDES
 
-[![link](linkedin.png)](https://www.linkedin.com/in/valdemir-fernandes-junior-0229aa1b2/)
+[![linkedin](linkedin.jpg)](https://www.linkedin.com/in/valdemir-fernandes-junior-0229aa1b2/)
 
 - 😄 Estou cursando desenvolvimento FULL STACK no SENAI -SP
 - 🤔 Em busca de uma oportunidade de emprego na área de tecnologias.
