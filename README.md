@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 [![link](linkedin.png)](https://www.linkedin.com/in/valdemir-fernandes-junior-0229aa1b2/)
 
 - 😄 Estou cursando desenvolvimento FULL STACK no SENAI -SP
-- 🤔 Em busca de um oportunidade de emprego na área de tecnologias.
+- 🤔 Em busca de uma oportunidade de emprego na área de tecnologias.
 - 🌱 Desenvolvendo um site de vendas para meus artesantos.
 - 🌱 No momento estou 'dominando' o front-end(html, css, Javascript)
 - ⚡ Amo criar, desenhar, escrever e, claro, desenvolver/programar.
